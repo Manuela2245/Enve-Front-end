@@ -1,5 +1,4 @@
 # Git flow:
-## Git Flow
 
 `git pull --rebase origin main`
 Pull last commits from main
